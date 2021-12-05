@@ -3,7 +3,8 @@
     
   </a>
 </p>
-
+<h1 align="center">🌟 Speech Audio Data Compression Using Machine Learning Dimensionality Reduction 🌟</h1>
+<p align="center">Start your project with Single Command</p>
 
 ## 🚀 Main files in the project 
 
